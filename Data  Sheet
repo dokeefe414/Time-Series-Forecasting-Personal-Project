@@ -2,6 +2,6 @@ Data for time series forecasting
 
 Race Date	| Mile Time (sec) |	Avg weekly milage (last 2w)	| Long Run before race(mi) |	Workouts that week |	Days since last mile race
 2/6/2026	  4:38 = 278	       53	                          13	                        1	                    6
-1/31/2026  	4:40 = 280	       54	                          12	                        1                    	21
-1/9/2026	  4:41 = 281	       47.5	                        10	                        1                    	25
+1/31/2026  	  4:40 = 280	       54	                          12	                        1                    	21
+1/9/2026	  4:41 = 281	       47.5	                       	  10	                        1                    	25
 					
